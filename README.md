@@ -9,9 +9,9 @@ README dosyası, bir adet de index.html dosyası barındırıyor
 ## Instalation
 
 Öncelikle projeyi clonelayın.
-
-linki
-
+`
+https://github.com/cihan-basaran/kodluyoruzilkrepo.git
+`
 ## Usage
 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
